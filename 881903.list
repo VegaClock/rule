@@ -11,4 +11,5 @@
 +.bigbigchannel.com.hk
 +.tvmedia.net.au
 +.tvbc.com.cn
-+.881903.com
+REGEX,^.\*881903.\*
+
